@@ -32,10 +32,10 @@ Welcome to my **Cool Login Form** project! This is a sleek and responsive login 
 ## 🔍 Preview
 
 ### Desktop
-![Desktop Preview](assets/image1.png)
+![Desktop Preview](https://github.com/salmanazamdev/cool-login-form/blob/main/assets/image1.PNG)
 
 ### Mobile
-![Mobile Preview](assets/image2.png)
+![Mobile Preview](https://github.com/salmanazamdev/cool-login-form/blob/main/assets/image1.PNG)
 
 ---
 
