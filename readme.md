@@ -35,7 +35,7 @@ Welcome to my **Cool Login Form** project! This is a sleek and responsive login 
 ![Desktop Preview](https://github.com/salmanazamdev/cool-login-form/blob/main/assets/image1.PNG)
 
 ### Mobile
-![Mobile Preview](https://github.com/salmanazamdev/cool-login-form/blob/main/assets/image1.PNG)
+![Mobile Preview](https://github.com/salmanazamdev/cool-login-form/blob/main/assets/image2.PNG)
 
 ---
 
