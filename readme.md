@@ -40,7 +40,7 @@ Welcome to my **Cool Login Form** project! This is a sleek and responsive login 
 ---
 
 ## 🤝 Contribution
-Feel free to suggest improvements or new features. You can fork the repo, make changes, and submit a pull request.
+Feel free to suggest improvements or new features. You can fork the repo, make changes, and submit a pull request. I would appreciate it.
 
 ---
 
