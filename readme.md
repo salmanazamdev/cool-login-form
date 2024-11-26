@@ -1,6 +1,6 @@
 # Cool Login Form ✨
 
-Welcome to my **Cool Login Form** project! This is a sleek and responsive login page designed using only **HTML** and **CSS**, perfect for showcasing clean and modern UI design.
+Welcome to my simple yet **Cool Login Form** project! This is a sleek and responsive login page designed using only **HTML** and **CSS**, perfect for showcasing clean and modern UI design.
 
 ---
 
